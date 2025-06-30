@@ -2,3 +2,4 @@ filesystem/
 tools/mkmap
 tools/mkobj
 build/
+*.z64
